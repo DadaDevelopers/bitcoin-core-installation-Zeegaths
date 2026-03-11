@@ -1,0 +1,90 @@
+{
+  "chain": "main",
+  "blocks": 0,
+  "headers": 759173,
+  "bestblockhash": "000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f",
+  "bits": "1d00ffff",
+  "target": "00000000ffff0000000000000000000000000000000000000000000000000000",
+  "difficulty": 1,
+  "time": 1231006505,
+  "mediantime": 1231006505,
+  "verificationprogress": 7.629587596669953e-10,
+  "initialblockdownload": true,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000100010001",
+  "size_on_disk": 293,
+  "pruned": false,
+  "warnings": [
+    "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+  ]
+}
+---
+0
+---
+000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+---
+{
+  "version": 299900,
+  "subversion": "/Satoshi:29.99.0/",
+  "protocolversion": 70016,
+  "localservices": "0000000000000c09",
+  "localservicesnames": [
+    "NETWORK",
+    "WITNESS",
+    "NETWORK_LIMITED",
+    "P2P_V2"
+  ],
+  "localrelay": true,
+  "timeoffset": 0,
+  "networkactive": true,
+  "connections": 10,
+  "connections_in": 0,
+  "connections_out": 10,
+  "networks": [
+    {
+      "name": "ipv4",
+      "limited": false,
+      "reachable": true,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    },
+    {
+      "name": "ipv6",
+      "limited": false,
+      "reachable": true,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    },
+    {
+      "name": "onion",
+      "limited": true,
+      "reachable": false,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    },
+    {
+      "name": "i2p",
+      "limited": true,
+      "reachable": false,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    },
+    {
+      "name": "cjdns",
+      "limited": true,
+      "reachable": false,
+      "proxy": "",
+      "proxy_randomize_credentials": false
+    }
+  ],
+  "relayfee": 0.00001000,
+  "incrementalfee": 0.00001000,
+  "localaddresses": [
+  ],
+  "warnings": [
+    "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+  ]
+}
+---
+{
+  "name": "test_wallet2"
+}
